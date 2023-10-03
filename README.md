@@ -1,0 +1,1 @@
+# Classification-of-EUROSAT-images-using-CNN-VGG16-architecture.
